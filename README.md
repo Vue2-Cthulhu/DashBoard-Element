@@ -37,6 +37,12 @@ base dependencies
 - vue2          https://github.com/vuejs/vue
 - vue-router    https://github.com/vuejs/vue-router
 - vux           https://github.com/vuejs/vuex
+- lodash        https://github.com/lodash/lodash
 - element-ui    https://github.com/ElemeFE/element
 - axios         https://github.com/mzabriskie/axios
 - core-js       https://github.com/zloirock/core-js
+
+
+develop dependences
+
+- gulp          https://github.com/gulpjs/gulp
